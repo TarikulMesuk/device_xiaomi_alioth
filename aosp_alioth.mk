@@ -24,7 +24,7 @@ TARGET_SUPPORTS_QUICK_TAP  := true
 TARGET_USES_MINI_GAPPS := false
 
 # VoidUI Maintainer Flags
-VOID_MAINTAINER := M3SUK
+VOID_MAINTAINER := TarikulMesuk
 
 # Inherit from alioth device
 $(call inherit-product, device/xiaomi/alioth/device.mk)
